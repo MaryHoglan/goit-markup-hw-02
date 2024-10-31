@@ -131,3 +131,4 @@ dist
 
 # Editor directories and files
 .DS_Store
+ images/.DS_Store
